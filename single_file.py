@@ -1,3 +1,4 @@
+#problem_1:   (Single Number )
 #python
 class Solution(object):
     def singleNumber(self, nums):
@@ -6,8 +7,8 @@ class Solution(object):
             result = result ^ i
         return result 
 
-    #java
-    """
+#java
+"""
     class Solution {
     public int singleNumber(int[] nums) {
         int i;
@@ -19,4 +20,15 @@ class Solution(object):
         
     }
 }
-    """
+"""
+
+    
+#problem_2: (Single Number II)
+#problem_3: (Majority Element)
+#problem_4: (Bitwise AND of Numbers Range)
+#problem_5: (Counting Bits)
+#problem_6: (Hamming Distance)
+#problem_6: (Decode XORed Permutation)
+
+
+    
